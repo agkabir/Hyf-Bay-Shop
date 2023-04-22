@@ -9,3 +9,7 @@ Lets help a user to find cheap products! When the **user writes a maximum price*
 
 ## 1.2. Filter products based on name and max price
 Lets help a user to find cheap products based on both name and max price! When the **user writes name and maximum price** all the products that matched with the text input and prices are less than or equal to the maximum price are shown if available.
+
+The overview of rendering product(s) is shown below.
+
+![Searching for a product](hyf-bay-price.gif)
